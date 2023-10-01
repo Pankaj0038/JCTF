@@ -12,7 +12,7 @@ int main(){
 	printf("Spells won't allow you to go further !!");
 	gets(buffer);
 	printf("%d\n",val);
-	char *li[] = {"F","l","a","g","{","H","4","c","k","}"};
+	char *li[] = [redacted];
 	if(val!=0){
 		flag(li,val);
 	}
