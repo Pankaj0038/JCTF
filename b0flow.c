@@ -17,7 +17,7 @@ int main(){
 		flag(li,val);
 	}
 	else{
-		printf("\nMay be a soul of deadbeef can help you to get in!");
+		printf("\nMay be broken boundaries can help you to get in!");
 	}
 	return 0;
 	
