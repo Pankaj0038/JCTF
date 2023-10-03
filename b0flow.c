@@ -2,7 +2,7 @@
 #include<string.h>
 
 int main(){
-        char buffer[6];
+        char buffer[100];
         int val = 0;
         printf("Spells won't allow you to go further !!");
         gets(buffer);
