@@ -7,7 +7,7 @@ int main(){
 	printf("Spells won't allow you to go further !!");
 	gets(buffer);
 	printf("%d\n",val);
-	char *flag = "JCTF{W45_7h47_50_345Y}";
+	char *flag = "redacted";
 	if(val!=0){
 		printf(flag);
 	}
